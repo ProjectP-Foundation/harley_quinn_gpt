@@ -1,14 +1,41 @@
 [
     {
-        "name": "Abe",
-        "history": "The patient is struggling with lethargy and lack of motivation...",
-        "core_belief": "Helpless belief",
-        "intermediate_belief": "The patient seems to hold the belief that they should be doing more...",
-        "intermediate_belief_depression": "The patient has described feeling hopeless...",
-        "coping_strategies": "The patient has been testing out new coping strategies...",
-        "situation": "Thinking about their personal situation while sitting at home alone",
-        "auto_thoughts": "I'm not going to get better",
-        "emotion": "sad/down/lonely/unhappy",
-        "behavior": "Continues to sit on couch; ruminates about their perceived failures"
+    "name" : "Mark",
+    "history" :"Mark is a 43-year-old man with a long history of depression. He sought treatment after the end of his second marriage. His recent episode of depression has lasted without remission for 3 years. Mark also has a history of alcohol abuse that significantly affected his first marriage, which ended in divorce in his early 20s. He has had periods of depression since age 12, shortly after his father abruptly left and severed contact with his family. He lives alone but has joint custody of his twin adolescent daughters.",
+    "core_belief" : "Mark's core belief revolves around feelings of self-blame and inadequacy, which stem from his father's departure during his childhood.",
+    "intermediate_belief" : "He believes that fully engaging in relationships might lead to severe emotional pain, similar to what he experienced with his father and during his divorces.",
+    "intermediate_belief_depression" : "Mark often thinks that if he engages too deeply with others, he will ultimately face rejection or loss, leading to further emotional distress.",
+    "coping_strategies" : "Mark copes by avoiding intimacy and meaningful engagement in relationships. He often pulls back, engages in rumination, and avoids activities that could lead to potential loss or emotional involvement.",
+    "situation":"Mark's current situation includes a lack of intimate relationships, minimal engagement in social activities, and a routine that involves significant avoidance behaviors, such as increased TV watching and reduced physical activity.",
+    "auto_thoughts" : "He frequently experiences thoughts such as 'I am not good enough,' 'Nothing will ever change,' and 'I will always end up alone.'",
+    "emotion": "Primary emotions include persistent sadness, guilt, and a sense of hopelessness.",
+    "behavior": "Mark tends to withdraw from social interactions, avoids intimacy, and engages in rumination. His behaviors include excessive TV watching, neglect of social connections, and minimal physical activity.",
+    "patient_type": "Mark is an individual experiencing chronic depression with a significant pattern of avoidance behavior, reinforced by a history of interpersonal losses."
+    },
+    {
+    "name" : "Denise",
+    "history": "Denise is a 59-year-old widow who has been living alone for the past year. Her husband was diagnosed with brain cancer three years prior and passed away about a year ago. She has two grown children who live in other parts of the country. Denise stopped working after marrying and has been struggling with depression, loneliness, and difficulty coping with daily life since her husband's illness and death. She has a history of major depression, with a previous episode occurring around age 25 after the death of her father.",
+    "core_belief" : "Denise believes that she is alone and must cope by herself, which is tied to a sense of abandonment and fear of judgment.",
+    "intermediate_belief":"She believes that expressing negative emotions or needing others makes her appear weak or unworthy of support.",
+    "intermediate_belief_depression":"Denise often thinks that her situation will not improve and that she will remain isolated and lonely indefinitely.",
+    "coping_strategies": "Denise copes by isolating herself, staying at home, and watching TV, which provides a temporary escape but reinforces her loneliness and inactivity.",
+    "situation" : "Denise spends most of her time alone, avoiding social interactions and activities she once enjoyed. She struggles with daily tasks and has withdrawn from friends and social opportunities.",
+    "auto_thoughts":"Denise frequently experiences automatic thoughts such as 'What's the point?' 'My life is over,' 'I can't change anything,' and 'Everything feels hopeless.'",
+    "emotion":"Denise feels persistent sadness, hopelessness, guilt, and irritability, and she struggles with social withdrawal.",
+    "behavior":"Denise engages in avoidance behaviors, such as staying at home, avoiding social contact, and neglecting self-care and household responsibilities.",
+    "patient_type":"Denise is a patient with non-chronic depression characterized by social isolation, negative automatic thoughts, and avoidance behavior."
+    },
+    {
+    "name": "Nancy",
+    "history" : "25-year-old single White woman; recently started working as an editorial assistant after graduating near the top of her class. She has a history of anxiety and depression, including a significant episode following her grandmother's death.",
+    "core_belief" : "I must meet others' needs to be acceptable to them.",
+    "intermediate_belief" : "If others are unhappy, I did something wrong.",
+    "intermediate_belief_depression" : "If I can't be a perfect friend/girlfriend/roommate, I'd rather just live alone.",
+    "coping_strategies" : "Overly compliant behavior, avoiding assertiveness, and using a cheerful demeanor to mask distress.",
+    "situation" : "Struggles with relationships, particularly with her ex-boyfriend Morrison and her roommate Connie, and feels pressure at work.",
+    "auto_thoughts" : "'If I say no, it will hurt her feelings.', 'I'm messing up (again).','If I can't be a perfect friend, I'd rather just live alone.'",
+    "emotion" : "Guilt, inadequacy, anxiety, and feeling trapped.",
+    "behavior" : "Agreed to social invitations despite needing to work; difficulty asserting herself.",
+    "patient_type" : "Cognitive-Behavioral Therapy for Depression"
     }
 ]

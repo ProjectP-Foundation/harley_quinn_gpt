@@ -7,7 +7,7 @@ import json
 api_key = os.getenv('ALTERNATE_OPENAI_API_KEY')
 # api_key = os.getenv('ALTERNATE_API_KEY_2')
 client = OpenAI(base_url='https://openkey.cloud/v1',api_key=api_key)
-# client = OpenAI(base_url='https://api.deerapi.com',api_key=api_key)
+# client = OpenAI(base_url='https://api.deerapi.com/v1',api_key=api_key)
 
 # 从 scales 目录下的 bdi.py 文件导入相关变量和函数
 import scales.depression.bdi as bdi

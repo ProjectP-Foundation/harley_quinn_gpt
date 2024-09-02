@@ -12,13 +12,20 @@ valid_ans = ['0', '1', '2', '3']
 column_names = ['1', '2', '3', '4', '5', '6', '7']
 
 question_prompt = [
-    "Feeling nervous, anxious or on edge",
-    "Not being able to stop or control worrying",
-    "Worrying too much about different things",
-    "Trouble relaxing",
-    "Being so restless that it is hard to sit still",
-    "Becoming easily annoyed or irritable",
+    "Experiencing nervousness, anxiety, or feeling tense.",
+    # "Feeling nervous, anxious or on edge",
+    "Finding it difficult to stop or manage worrying.",
+    # "Not being able to stop or control worrying",
+    "Having excessive concerns about various issues."
+    # "Worrying too much about different things",
+    "Struggling to unwind or relax."
+    # "Trouble relaxing",
+    "Feeling so restless that staying still is challenging."
+    # "Being so restless that it is hard to sit still",
+    "Becoming quickly annoyed or easily irritated."
+    # "Becoming easily annoyed or irritable",
     "Feeling afraid as if something awful might happen"
+    # "Feeling fearful, as though something terrible might occur."
 ]
 
 __all__ = ['question_prompt', 'rule_prompt', 'column_names']

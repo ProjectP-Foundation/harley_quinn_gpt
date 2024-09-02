@@ -9,24 +9,41 @@ You should only give the score with no reasons.
 
 valid_ans = ['0', '1', '2', '3']
 
-question_prompt = [ 
-    "Little interest or pleasure in doing things",
-    "Feeling down, depressed, or hopeless",
-    "Trouble falling or staying asleep, or sleeping too much",
-    "Feeling tired or having little energy",
-    "Poor appetite or overeating",
-    "Feeling down about yourself or thinking that you haven't met your own or your family's expectations",
-    "Trouble concentrating on things, such as reading the newspaper or watching television",
-    "Moving or speaking so slowly that other people could have noticed. Or the opposite - being so figety or restless that you have been moving around a lot more than usual",
-    "Thoughts about feeling overwhelmed to the point of not wanting to continue working",
-    "How difficult have depression problems made it for you to do your work, take care of things at home, or get along with other people?"
+question_prompt = [
+    # "Little interest or pleasure in doing things"
+    "Experiencing a lack of interest or pleasure in activities.",
+
+    # "Feeling down, depressed, or hopeless"
+    "Feeling down, depressed, or hopeless.",
+
+    # "Trouble falling or staying asleep, or sleeping too much"
+    "Having difficulty falling or staying asleep, or sleeping excessively.",
+
+    # "Feeling tired or having little energy"
+    "Feeling fatigued or having low energy.",
+
+    # "Poor appetite or overeating"
+    "Experiencing a poor appetite or overeating.",
+
+    # "Feeling down about yourself or thinking that you haven't met your own or your family's expectations"
+    "Feeling down about yourself or believing you haven't met personal or family expectations.",
+
+    # "Trouble concentrating on things, such as reading the newspaper or watching television"
+    "Having trouble concentrating on activities like reading or watching TV.",
+
+    # "Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual"
+    "Moving or speaking noticeably slowly, or being unusually fidgety or restless.",
+
+    # "Thoughts that you would be better off dead, or of hurting yourself"
+    "Having thoughts of being overwhelmed to the point of wanting to stop working.",
+
+    # "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?
+    # Not difficult at all
+    # Somewhat difficult
+    # Very difficult
+    # Extremely difficult"
+    "Assessing the difficulty depression has caused in your ability to work, manage household tasks, or interact with others.",
 ]
-    # 9. "Thoughts that you would be better off dead, or of hurting yourself",
-# 10. If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?
-# Not difficult at all
-# Somewhat difficult
-# Very difficult
-# Extremely difficult'''
 
 column_names = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
 
